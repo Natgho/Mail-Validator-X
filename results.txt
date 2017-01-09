@@ -1,0 +1,4 @@
+Mail:sample@mail.com, Validation: None
+Mail:sample@hotmail.com, Validation: None
+Mail:sample@gmail.com, Validation: None
+Mail:sample@sdkjfnsdkjfn.com, Validation: False

@@ -1,0 +1,4 @@
+Mail:sample@mail.com, Validation: <ValidDiagnosis: VALID>
+Mail:sample@hotmail.com, Validation: <ValidDiagnosis: VALID>
+Mail:sample@gmail.com, Validation: <ValidDiagnosis: VALID>
+Mail:sample@sdkjfnsdkjfn.com, Validation: <DNSDiagnosis: NO_RECORD>
