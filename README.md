@@ -1,5 +1,5 @@
 # mail_validator_X
-A close friend needed email confirmer. I wrote a simple mail checking program for him. I share because everyone wants to be useful.
+A close friend needed an e-mail confirmer so I wrote a simple program for him. I'm really happy to share such an useful program for you. Let's check it out and share your ideas. (Thanks to Deniz Saglam)
 
 ## How to use?
 1. First, install "pyisemail, py3dns, validate_email" modules...
